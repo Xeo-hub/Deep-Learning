@@ -1,1 +1,1 @@
-his directory gathers several Deep Learning challenges made in the "Deep Learning" course.
+This directory gathers several Deep Learning challenges made in the "Deep Learning" course.
