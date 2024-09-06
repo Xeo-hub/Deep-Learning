@@ -1,1 +1,1 @@
-# Deep-Learning
+Collection of deep learning projects and university-related exercises
